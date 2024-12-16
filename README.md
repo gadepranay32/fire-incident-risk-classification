@@ -1,5 +1,4 @@
 # fire-incident-risk-classification
-Here’s a `README.md` file you can use for your GitHub project:
 
 ---
 
